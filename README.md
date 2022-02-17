@@ -25,7 +25,7 @@ I'm Nathaniel Waldschmidt and I'm a Web Application Developer.  I live in Geneva
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <a href="https://github.com/NateWaldschmidt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateWaldschmidt&hide=html,tex&layout=compact&cache_seconds=1800&border_color=30363d&title_color=c9d1d9&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateWaldschmidt&hide=html,tex&layout=compact&border_color=30363d&title_color=c9d1d9&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117&langs_count=6" />
 </a>
 
 <!--
