@@ -3,9 +3,9 @@ I'm Nathaniel Waldschmidt and I am a software engineer with a passion for writin
 
 [1]: https://www.linkedin.com/in/nathaniel-waldschmidt
 
-<a href="https://github.com/NateWaldschmidt">
+<!-- <a href="https://github.com/NateWaldschmidt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateWaldschmidt&hide=html,tex&layout=compact&border_color=30363d&title_color=c9d1d9&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117&langs_count=6" />
-</a>
+</a> -->
 
 ## ⌨️ Languages
 ![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=23007ACC)
