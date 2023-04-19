@@ -23,8 +23,9 @@ My name is Nathaniel Waldschmidt and am a Software Engineer. Feel free to take a
 ![MySQL](https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql&logoColor=2300f)
 
 ## 🔨 Frameworks
-![SvelteKit](https://img.shields.io/badge/sveltekit-white.svg?style=for-the-badge&logo=svelte&logoColor=23f1413d)
 ![Next.js](https://img.shields.io/badge/nextjs-white.svg?style=for-the-badge&logo=next.js&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=black)
+![SvelteKit](https://img.shields.io/badge/sveltekit-white.svg?style=for-the-badge&logo=svelte&logoColor=23f1413d)
 
 ## 🧰 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
