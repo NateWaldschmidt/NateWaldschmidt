@@ -8,11 +8,11 @@ My name is Nathaniel Waldschmidt and am a Software Engineer. Feel free to take a
 </a>
 
 ## ⌨️ Languages
-![Python](https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=23777BB4)
 ![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=23007ACC)
 ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=23323330)
-![MySQL](https://img.shields.io/badge/MQL-white.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Python](https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=23777BB4)
 ![SQL](https://img.shields.io/badge/sql-white.svg?style=for-the-badge&logo=mysql&logoColor=23777BB4)
+![MQL](https://img.shields.io/badge/MQL-white.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PHP](https://img.shields.io/badge/php-white.svg?style=for-the-badge&logo=php&logoColor=23777BB4)
 
 ## 🤖 Technologies
