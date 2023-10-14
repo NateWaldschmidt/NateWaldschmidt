@@ -3,10 +3,6 @@ My name is Nathaniel Waldschmidt and am a Software Engineer. Feel free to take a
 
 [1]: https://www.linkedin.com/in/nathaniel-waldschmidt
 
-<a href="https://github.com/NateWaldschmidt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateWaldschmidt&hide=html,tex&layout=compact&border_color=30363d&title_color=c9d1d9&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117&langs_count=6" />
-</a>
-
 ## ⌨️ Languages
 ![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=23007ACC)
 ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=23323330)
