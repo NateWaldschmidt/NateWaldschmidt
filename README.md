@@ -1,5 +1,5 @@
 # Hey all <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Nathaniel Waldschmidt and am a Software Engineer. Feel free to take a look around my Github and reach out to me on **[LinkedIn][1]** or by **[Email](mailto:nathaniel.waldsch@gmail.com)**.
+My name is Nathaniel Waldschmidt and I am a Software Engineer. Feel free to take a look around my Github and reach out to me on **[LinkedIn][1]** or by **[Email](mailto:nathaniel.waldsch@gmail.com)**.
 
 [1]: https://www.linkedin.com/in/nathaniel-waldschmidt
 
